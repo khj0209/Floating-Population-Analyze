@@ -13,7 +13,7 @@ we customized the darknet framework, the driving environment of yolov and for da
  + 전북대학교 14학번 김형중 [링크](https://github.com/khj0209)
  + 전북대학교 17학번 고영훈 [링크](https://yh-kr.tistory.com)
  + 전북대학교 17학번 박주빈 [링크](https://www.jubin-park.com/)
- + 전북대학교 18학번 장윤정
+ + 전북대학교 18학번 장윤정 [링크](https://realyun99.tistory.com/)
 
 ---
 
